@@ -3,7 +3,6 @@ body {
     font-family: "Playfair Display", serif;
     font-style: normal;
     font-weight: 300;
-    background-color: aliceblue ;
     color: #333;
     margin: 0;
     padding: 0;
@@ -66,7 +65,7 @@ nav ul li a:hover {
 
 #contact {
     padding: 50px 20px;
-    background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+    background-color: #ACC8E5;
     color: #333;
 }
 
